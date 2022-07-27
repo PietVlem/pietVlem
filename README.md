@@ -2,7 +2,7 @@
 
 I am a front-end software engineer from Zottegem, Belgium.
 
-- 🔭 Front-end developer @ The Craft in Kortrijk
+- 🔭 Front-end developer @ The Appeel.io
 - 🌱 Experimenting with new tech is fun!
   <br>
 
