@@ -1,5 +1,5 @@
 # Hello World 👋
-I am a front-end software engineer from Zottegem, Belgium.<br><br>🔭 Front-end developer @ Appeel.io<br>🌱 Experimenting with new tech is fun!<br><br>Project(s)<br>⌨️ https://mechstores.com
+I am a front-end software engineer from Zottegem, Belgium.<br><br>🔭 Front-end developer @ [Appeel.io](https://appeel.io)<br>🌱 Experimenting with new tech is fun!<br><br>Project(s)<br>⌨️ [Mechstores.com](https://mechstores.com)
 
 
 ## 🌐 Socials:
